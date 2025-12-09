@@ -15,6 +15,6 @@ It includes the code, notebooks, and saved model weights necessary to reproduce 
   (Requires Git LFS since the file is large.)
 
 - **TABC_models.ipynb**  
-  Pre-trained ResNet-18 model with different heads frozen for experiments
+  Pre-trained ResNet-18 model with different heads frozen for experiments \
   Also contains validation and testing of the ResNet-18 models.
 
